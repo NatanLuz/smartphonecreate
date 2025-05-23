@@ -1,6 +1,6 @@
 # 📱 SmartphoneCreate
 
-> Projeto SQL para criação e gerenciamento de um banco de dados de smartphones. Desenvolvido com foco em estruturação profissional de dados, ideal para portfólios técnicos e demonstração de domínio em modelagem e comandos SQL.
+> Projeto SQL para criação e gerenciamento de um banco de dados de smartphones. Desenvolvido com foco em estruturação profissional de dados.
 
 ---
 
