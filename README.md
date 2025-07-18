@@ -1,10 +1,10 @@
-# 📱 SmartphoneCreate
+#  SmartphoneCreate
 
 > Projeto SQL para criação e gerenciamento de um banco de dados de smartphones. Desenvolvido com foco em estruturação profissional de dados.
 
 ---
 
-## 💡 Objetivo
+##  Objetivo
 
 Este projeto foi criado para demonstrar habilidades práticas em **modelagem de banco de dados relacional**, utilizando comandos **DDL** e **DML** no SQL.  
 É ideal para cenários como:
@@ -15,7 +15,7 @@ Este projeto foi criado para demonstrar habilidades práticas em **modelagem de 
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+##  Tecnologias e Conceitos Utilizados
 
 - SQL (Structured Query Language)
 - Comandos DDL (CREATE, ALTER, DROP)
@@ -26,9 +26,9 @@ Este projeto foi criado para demonstrar habilidades práticas em **modelagem de 
 
 ---
 
-## 🧾 Conteúdo do Script `smartphonecreate.sql`
+##  Conteúdo do Script `smartphonecreate.sql`
 
-O script realiza:
+O script realiza as seguintes ações :
 
 - Criação de tabelas como `Fabricante`, `Modelo`, `Smartphone`, `Estoque`
 - Definição de chaves primárias e estrangeiras
@@ -39,7 +39,7 @@ O script realiza:
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar ?
 
 1. Clone o repositório ou baixe o arquivo `.sql`
 2. Abra em um SGBD de sua preferência (MySQL Workbench, DBeaver, etc)
@@ -47,7 +47,7 @@ O script realiza:
 
 ---
 
-## 📌 Exemplos de Uso
+## Exemplos de uso abaixo :
 
 ```sql
 -- Consultar todos os smartphones com fabricante
